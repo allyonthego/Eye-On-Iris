@@ -1,5 +1,5 @@
 # Eye-On-Iris
-A program to classify an iris flower based on its petal and sepal lengths, often considered the "Hello World" of machine learning. Written to explore new self-taught concepts. 
+A program to classify an iris flower based on its petal and sepal lengths, often considered the "Hello World" of machine learning. Written to explore some new, self-taught concepts. 
 
 Training and testing data provided from UCI machine learning library:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
